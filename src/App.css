@@ -3,3 +3,9 @@ body {
   padding: 20px 60px;
 }
 
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(151, 48, 1)
+}
+
